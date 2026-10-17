@@ -1,2 +1,2 @@
-# VidSense - YT Video Assistant
+# VidMate - AI Video Assistant
 
