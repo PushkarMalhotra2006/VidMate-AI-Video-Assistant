@@ -91,7 +91,6 @@ VidMate - AI Video Assistant/
 
 ## 👨‍💻 Author
 
-Pushkar Malhotra
 **Pushkar Malhotra**
 
 GitHub: [PushkarMalhotra2006](https://github.com/PushkarMalhotra2006)
