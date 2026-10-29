@@ -1,7 +1,7 @@
 # ── AI Video Assistant ───────────────────────────────────────────────────────
 
 # ── Audio / Video acquisition ────────────────────────────────────────────────
-yt-dlp[default]>=2026.08.19
+yt-dlp==2026.8.19
 yt-dlp-ejs
 pydub
 ffmpeg-python
@@ -15,6 +15,7 @@ nvidia-cudnn-cu12
 torch
 torchaudio
 torchvision
+av<19
 
 # ── Translation (Hindi → English) ────────────────────────────────────────────
 deep-translator

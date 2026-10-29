@@ -180,7 +180,8 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # Process transcript when user clicks Process
 if process_clicked:
-    if source is None or not source.strip():
+    if (input_method == "YouTube URL" and (source is None or not source.strip())) or \
+    (input_method == "Upload Video" and uploaded_file is None):
         if input_method == "YouTube URL":
             st.error("Please enter a valid YouTube URL")
         else:
