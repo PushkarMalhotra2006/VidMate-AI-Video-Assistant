@@ -130,7 +130,7 @@ st.markdown("""
 # Input card
 
 st.markdown(
-    '<div class="input-heading">Paste YouTube URL or upload a video (Please use upload video feature if YT download does not work)</div>',
+    '<div class="input-heading">Paste YouTube URL or upload a video</div>',
     unsafe_allow_html=True
 )
 
